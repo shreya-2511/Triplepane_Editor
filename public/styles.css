@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  text-decoration-line: underline;
+  background-color: rgba(0, 0, 0, 0.863);
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: "Fira Code", monospace;
+  text-align: center;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+.editor {
+  margin-bottom: 20px;
+  display: flex;
+  flex-grow: 1;
+  flex-basic: 0;
+  flex-direction: column;
+  padding: 0 8px 8px;
+}
+.space {
+  display: flex;
+  background-color: black;
+  height: 50vh;
+  width: 100%;
+  padding: 0.5rem 1rem;
+}
+.tab {
+  height: 20px;
+  width: 20px;
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+  align-items: center;
+  margin-right: 5px;
+  color: black;
+}
+.label {
+  display: flex;
+  background-color: rgb(44, 43, 43);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  color: rgb(210, 216, 221);
+  font-weight: 700;
+  font-size: 1rem;
+}
+.codemirror .cm-scroller {
+  height: 40vh !important;
+  color: blanchedalmond;
+}
+.preview {
+  height: 50vh;
+}
