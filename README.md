@@ -31,7 +31,8 @@ TriplePane Editor is a responsive, browser-based code editor . It provides a sea
 ## 🖥 Preview
 
 
-![Screenshot 2025-06-29 141040](https://github.com/user-attachments/assets/724640e5-0388-491e-86c7-df55e66e1768)
+![Screenshot 2025-06-29 141040](https://github.com/user-attachments/assets/6396b715-9168-4877-929c-6c78e5e96852)
+
 
 
 ---
